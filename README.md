@@ -1,6 +1,13 @@
 # Description
 Murrine and pixmap. White sand and Caribbean blue colors. Includes: gtk2, openbox3, panels, wallpaper.
 
+# Screenshot
+![](http://s1.postimg.org/44dq8hx0f/122665_1.jpg)
+
+![](http://s7.postimg.org/udzpnucgb/122665_2.jpg)
+
+![](http://s10.postimg.org/w57rvl01l/122665_3.jpg)
+
 # Changelog:
 - April 16 - One last tweek changos:
 Desktop switcher (OSD) didn't follow theme, redone. Added a different wallpaper in Extras, the one in current
