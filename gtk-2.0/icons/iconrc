@@ -1,0 +1,71 @@
+style "nimbus-icons"
+{
+  stock["gtk-add"] = {{ "add.png", *, *, * }}
+  stock["gtk-apply"] = {{ "apply.png", *, *, *}}
+  stock["gtk-bold"] = {{ "stock_bold.png", *, *, *}}
+  stock["gtk-cancel"] = {{ "process-stop.png", *, *, *}}
+  stock["gtk-cdrom"] = {{ "media-cdrom.png", *, *, *}}
+  stock["gtk-close"] = {{ "gtk-close.png", *, *, * }}
+  stock["gtk-clear"] = {{ "clear.png", *, *, * }} 
+  stock["gtk-color-picker"] = {{ "colorpicker.png", *, *, * }} 
+  stock["gtk-copy"] = {{ "edit-copy.png", *, *, * }}
+  stock["gtk-cut"] = {{ "edit-cut.png", *, *, * }}
+  stock["gtk-find"] = {{ "edit-find.png", *, *, * }}
+  stock["gtk-folder"] = {{ "folder.png", *, *, * }}
+  stock["gtk-go-back"] = { { "go-previous.png", *, *, *} }
+  stock["gtk-go-down"] ={ { "go-down.png", *, *, *}}
+  stock["gtk-go-forward"] ={{ "go-next.png", *, *, *}}
+  stock["gtk-go-up"] ={{ "go-up.png", *, *, *}}
+  stock["gtk-goto-bottom"] = { { "go-bottom.png", *, *, *} }
+  stock["gtk-goto-first"] = {{ "go-first.png", *, *, * }}
+  stock["gtk-goto-last"] = {{ "go-last.png", *, *, * }}
+  stock["gtk-goto-top"] = {{ "go-top.png", *, *, *}}
+  stock["gtk-help"] = {{ "help-contents.png", *, *, * }}
+  stock["gtk-home"] = {{ "go-home.png", *, *, * }}
+  stock["gtk-jump-to"] = {{ "go-jump.png", *, *, * }}
+  stock["gtk-new"] = {{ "document-new.png", *, *, *}}
+  stock["gtk-no"] = {{ "process-stop.png", *, *, *}}
+  stock["gtk-ok"] ={{ "execute.png", *, *, *}}
+  stock["gtk-open"] ={{ "document-open.png", *, *, *}}
+  stock["gtk-print"] ={{ "document-print.png", *, *, *}}
+  stock["gtk-quit"] = {{ "quit.png", *, *, * }}
+  stock["gtk-redo"] = {{ "edit-redo.png", *, *, * }}
+  stock["gtk-refresh"] = {{ "view-refresh.png", *, *, *}}
+  stock["gtk-remove"] = {{ "list-remove.png", *, *, * }}
+  stock["gtk-save"] = {{ "document-save.png", *, *, * }}
+  stock["gtk-save-as"] = {{ "document-save-as.png", *, *, * }}
+  stock["gtk-stop"] = {{ "process-stop.png", *, *, * }}
+  stock["gtk-undo"] = {{ "edit-undo.png", *, *, * }}
+  stock["gtk-yes"] = { { "execute.png", *, *, *} }
+  stock["gtk-zoom-100"] = {{ "zoom-original.png", *, *, * }}
+  stock["gtk-zoom-fit"] = {{ "zoom-best-fit.png", *, *, * }}
+  stock["gtk-zoom-fit-width"] = {{ "zoom-best-fit.png", *, *, * }}
+  stock["gtk-zoom-in"] = {{ "zoom-in.png", *, *, * }}
+  stock["gtk-zoom-out"] = {{ "zoom-out.png", *, *, * }}
+  stock["gtk-find-and-replace"] = {{ "edit-find-replace.png", *, *, * }}
+  stock["gtk-paste"] = {{ "edit-paste.png", *, *, * }}
+  stock["gtk-trash"] = {{ "user-trash_full.png", *, *, * }}
+  stock["gtk-delete"] = {{ "edit-delete.png", *, *, * }}
+  stock["gtk-preferences"] = {{ "preferences.png", *, *, * }}
+  stock["gtk-properties"] = {{ "preferences-desktop-menu-editor.png", *, *, * }}
+  stock["gtk-devices"] = {{ "drive-harddisk.png", *, *, * }}
+
+}
+class "GtkWidget" 	style "nimbus-icons"
+
+##############################################
+
+style "panel"
+{
+	      
+  stock["panel-screenshot"] = {{ "panel-screenshot.png", *, *, * }}
+  stock["panel-lockscreen"] = {{ "system-lock-screen.png", *, *, * }}
+  stock["panel-searchtool"] = {{ "edit-find.png", *, *, * }}
+  stock ["panel-multimedia"] = {{ "sound-java-multimedia-player.png"}}
+  stock ["panel-gnome-logo"] = {{ "logo-icon-transparent.png"}}
+
+}
+
+class "GtkWidget" 	style "panel"
+
+

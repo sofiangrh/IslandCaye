@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=IslandCaye
+Comment=Tropical-Paradise on the beach 
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=IslandCaye
+OpenboxTheme=IslandCaye
+IconTheme=nimbus-custom
+CursorTheme=default

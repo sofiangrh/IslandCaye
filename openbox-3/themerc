@@ -1,0 +1,107 @@
+!! an openbox theme created for IslandCaye
+!! by daman and whoever would like to be creative next;)
+
+!! Menu background
+menu.items.bg: flat gradient diagonal
+menu.items.bg.color: #F2EEE1
+menu.items.bg.colorTo: #ACA790
+
+!! Menu text
+menu.items.text.color: #4A4532
+menu.items.justify: left
+menu.items.disabled.text.color: #878787
+
+!! Menu headers
+menu.title.bg: Flat gradient splitvertical 
+menu.title.bg.color:  #B7C2C9
+menu.title.bg.colorTo: #A7B3B7
+menu.title.text.color: #767161
+menu.title.text.justify: center
+
+!! Selected menu item
+menu.items.active.bg: Flat gradient splitvertical
+menu.items.active.bg.color: #869EAC
+menu.items.active.bg.color.splitTo: #A9BCC8
+menu.items.active.bg.colorTo: #869EAC
+menu.items.active.bg.colorTo.splitTo: #D6E0E6
+menu.items.active.text.color: #000000
+
+!! Titlebar
+window.active.title.bg: Flat gradient splitvertical
+window.active.title.bg.color: #B7C2C9
+window.active.title.bg.colorTo: #A7B3B7
+window.inactive.title.bg: Flat gradient splitvertical
+window.inactive.title.bg.color:  #B7C2C9
+window.inactive.title.bg.colorTo: #A7B3B7
+
+!! Titlebar text
+window.label.text.justify: center
+window.active.label.bg: parentrelative
+window.active.label.text.color: #767161
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #878787
+
+!! Active buttons
+window.*.button.*.bg: parentrelative
+window.active.button.*.bg: Flat gradient splitvertical 
+window.active.button.*.bg.color: #B7C2C9
+window.active.button.*.bg.colorTo: #A7B3B7
+window.active.button.*.image.color: #767161
+
+window.active.button.hover.bg: Flat gradient splitvertical
+window.active.button.hover.bg.color: #B7C2C9
+window.active.button.hover.bg.colorTo: #A7B3B7
+window.active.button.hover.image.color: #21177A
+window.active.button.pressed.bg: Flat solid Border
+window.active.button.pressed.bg.color: #51CFDF
+window.active.button.pressed.image.color: #000000
+window.active.button.toggled.pressed.bg: Flat solid Border
+window.active.button.toggled.pressed.bg.color: #51CFDF
+
+!! Inactive buttons
+window.inactive.button.*.bg: Flat gradient splitvertical
+window.inactive.button.*.bg.color: #B7C2C9
+window.inactive.button.*.bg.colorTo: #A7B3B7
+window.inactive.button.*.image.color: #878787
+
+!! Border settings
+window.active.border.color: #747474
+menu.border.color: #AFBCC0
+window.active.title.separator.color: #AFBCC0
+window.inactive.border.color: #747474
+window.inactive.title.separator.color: #AFBCC0
+border.width: 1
+padding.width: 1
+window.handle.width: 0
+window.active.client.color:  #AFBCC0
+window.inactive.client.color:  #AFBCC0
+window.client.padding.width: 2
+window.client.padding.height: 2
+menu.overlap: 0
+
+!! Font shadows
+window.active.label.text.font:shadow=y:shadowtint=70:shadowoffset=1
+window.inactive.label.text.font:shadow=y:shadowtint=70:shadowoffset=1
+!! menu.items.font:shadow=y:shadowtint=70:shadowoffset=1
+menu.title.text.font:shadow=y:shadowtint=70:shadowoffset=1
+
+!! On-screen displays
+osd.border.width: 1
+osd.border.color:  #AFBCC0
+
+osd.bg: Flat gradient splitvertical
+osd.bg.color: #8B846A
+osd.bg.color.splitTo: #E0DAC6
+osd.bg.colorTo: #8B846A
+osd.bg.colorTo.splitTo: #8B846A
+
+osd.hilight.bg: Flat gradient splitvertical
+osd.hilight.bg.color: #869EAC
+osd.hilight.bg.color.splitTo: #A9BCC8
+osd.hilight.bg.colorTo: #869EAC
+osd.hilight.bg.colorTo.splitTo: #D6E0E6
+
+osd.unhilight.bg: Flat vertical gradient
+osd.unhilight.bg.color: #4D4D4C
+osd.unhilight.bg.colorTo: #ACA790
+
