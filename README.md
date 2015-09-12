@@ -1,5 +1,5 @@
 # Description
-Murrine and pixmap. White sand and Caribbean blue colors. Includes: gtk2, openbox3, panels, wallpaper.
+Murrine and pixmap. White sand and Caribbean blue colors. Includes: gtk2, openbox3, panels and wallpaper.
 
 # Screenshot
 ![](http://s1.postimg.org/44dq8hx0f/122665_1.jpg)
